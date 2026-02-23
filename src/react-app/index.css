@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+:root {
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #1a1a1b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100dvh;
+  background: #fff;
+}
