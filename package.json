@@ -9,18 +9,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "flingit": "^0.0.41",
+    "flingit": "^0.0.44",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "vite": "^6.0.5",
-    "@vitejs/plugin-react": "^4.3.4",
     "@tailwindcss/vite": "^4",
-    "tailwindcss": "^4",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "typescript": "~5.6.2"
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.5"
   },
   "fling": {
     "projectName": "6cjx8s"

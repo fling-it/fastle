@@ -388,7 +388,7 @@ See `references/API.md` for detailed API reference, `references/EXAMPLES.md` for
 
 ## Updates
 
-When the fling CLI mentions that there is a new version available, strongly suggest to the user to update, becasue it might contain bug fixes or new features.  To update, run
+When the fling CLI mentions that there is a new version available, strongly suggest to the user to update, becasue it might contain bug fixes or new features.  Don't ask the user to update, offer to update for them!  To update, run
 
 ```bash
 npm install flingit@latest
